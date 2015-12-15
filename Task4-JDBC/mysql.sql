@@ -215,10 +215,7 @@ ADD CONSTRAINT `groupIDconstr` FOREIGN KEY (`groupID`) REFERENCES `groups` (`id`
 ADD CONSTRAINT `subject` FOREIGN KEY (`subjID`) REFERENCES `subjects` (`id`) ON DELETE CASCADE ON UPDATE CASCADE;
 
 --Функция 
-CREATE DEFINER =  `root`@`localhost` PROCEDURE  `para_len` ( IN  `gr` INT, IN  `mday` INT ) COMMENT  'A procedure' DETERMINISTIC CONTAINS SQL SQL SECURITY DEFINER BEGIN SELECT COUNT( * ) 
-FROM list l
-JOIN para p ON ( l.para = p.number ) 
-WHERE l.groupID = gr
-AND l.day = mday;
-
-END
+CREATE DEFINER=`root`@`localhost` PROCEDURE `para_len2`(IN gr INT(10), IN mday INT(10), OUT MY_COUNT int(10))
+BEGIN 
+ SELECT COUNT(*) INTO MY_COUNT FROM list l JOIN para p ON (l.para = p.number) WHERE l.groupID = gr and l.day = mday;
+END$$
