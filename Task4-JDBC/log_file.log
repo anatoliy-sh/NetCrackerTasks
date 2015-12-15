@@ -1,0 +1,14 @@
+2015-12-14 14:52:33 INFO  Statements:14 - SimpleStatement
+2015-12-14 14:52:33 INFO  Statements:17 - id: 1, name: Физ-ра
+2015-12-14 14:52:33 INFO  Statements:17 - id: 2, name: Механика
+2015-12-14 14:52:33 INFO  Statements:17 - id: 3, name: ООП
+2015-12-14 14:52:33 INFO  Statements:17 - id: 4, name: ТИПИС
+2015-12-14 14:52:33 INFO  Statements:17 - id: 5, name: УРМАТ
+2015-12-14 14:52:33 INFO  Statements:17 - id: 6, name: Мет. выч
+2015-12-14 14:52:33 INFO  Statements:17 - id: 7, name: Пр. БД
+2015-12-14 14:52:33 INFO  Statements:17 - id: 8, name: Англ. язык
+2015-12-14 14:52:33 INFO  Statements:29 - PrepareStatement
+2015-12-14 14:52:33 INFO  Statements:32 - id: 1, name: Физ-ра
+2015-12-14 14:52:33 INFO  Statements:32 - id: 2, name: Механика
+2015-12-14 14:52:33 INFO  Statements:46 - CallableStatement
+2015-12-14 14:52:33 INFO  Statements:47 - Number of subjects (day - 2 group - 1)- 2

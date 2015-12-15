@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<citizens>
+  <creature id="0">
+    <listItems>
+      <race>Ork</race>
+      <class>Worker</class>
+      <name>Ork1</name>
+      <city>City</city>
+      <livedDays>4</livedDays>
+    </listItems>
+  </creature>
+  <creature id="1">
+    <listItems>
+      <race>Human</race>
+      <class>Worker</class>
+      <name>Human1</name>
+      <city>City</city>
+      <livedDays>6</livedDays>
+    </listItems>
+  </creature>
+  <creature id="2">
+    <listItems>
+      <race>Ork</race>
+      <class>Warrior</class>
+      <name>Ork2</name>
+      <city>City</city>
+      <livedDays>6</livedDays>
+    </listItems>
+  </creature>
+  <creature id="3">
+    <listItems>
+      <race>Human</race>
+      <class>Warrior</class>
+      <name>Human2</name>
+      <city>City</city>
+      <livedDays>8</livedDays>
+    </listItems>
+  </creature>
+</citizens>
+

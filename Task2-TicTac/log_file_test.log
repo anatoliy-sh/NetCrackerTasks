@@ -1,0 +1,765 @@
+2015-12-08 14:43:56 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 ERROR Calculation:80 - Movement error
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:114 - Win X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:114 - Win X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:114 - Win X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:121 - Dead heat
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:114 - Win X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:43:56 INFO  Calculation:63 - Move X
+2015-12-08 14:43:56 INFO  Calculation:114 - Win X
+2015-12-08 14:43:56 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:44:46 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:114 - Win X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:114 - Win X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:121 - Dead heat
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:114 - Win X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:44:46 INFO  Calculation:63 - Move X
+2015-12-08 14:44:46 INFO  Calculation:114 - Win X
+2015-12-08 14:44:46 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:45:13 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:114 - Win X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:114 - Win X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:121 - Dead heat
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:114 - Win X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:13 INFO  Calculation:63 - Move X
+2015-12-08 14:45:13 INFO  Calculation:114 - Win X
+2015-12-08 14:45:13 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:45:52 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:114 - Win X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:114 - Win X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:121 - Dead heat
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:114 - Win X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:45:52 INFO  Calculation:63 - Move X
+2015-12-08 14:45:52 INFO  Calculation:114 - Win X
+2015-12-08 14:45:52 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:46:04 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:114 - Win X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:114 - Win X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:121 - Dead heat
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:114 - Win X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:04 INFO  Calculation:63 - Move X
+2015-12-08 14:46:04 INFO  Calculation:114 - Win X
+2015-12-08 14:46:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:46:38 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:114 - Win X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:114 - Win X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:119 - Test: enter simbol
+2015-12-08 14:46:38 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:121 - Dead heat
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:114 - Win X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:46:38 INFO  Calculation:63 - Move X
+2015-12-08 14:46:38 INFO  Calculation:114 - Win X
+2015-12-08 14:46:38 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:47:29 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:114 - Win X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:114 - Win X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:119 - Test: enter simbol
+2015-12-08 14:47:29 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:121 - Dead heat
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:114 - Win X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:127 - Test: enter simbol
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 ERROR Calculation:80 - Movement error
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 ERROR Calculation:80 - Movement error
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 ERROR Calculation:80 - Movement error
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 ERROR Calculation:80 - Movement error
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:29 INFO  Calculation:63 - Move X
+2015-12-08 14:47:29 INFO  Calculation:114 - Win X
+2015-12-08 14:47:29 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:47:48 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:114 - Win X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:114 - Win X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:119 - Test: enter simbol
+2015-12-08 14:47:48 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:121 - Dead heat
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:114 - Win X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:127 - Test: enter simbol
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 ERROR Calculation:80 - Movement error
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 ERROR Calculation:80 - Movement error
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:47:48 INFO  Calculation:63 - Move X
+2015-12-08 14:47:48 INFO  Calculation:114 - Win X
+2015-12-08 14:47:48 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:48:04 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:114 - Win X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:114 - Win X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:119 - Test: enter simbol
+2015-12-08 14:48:04 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:121 - Dead heat
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:114 - Win X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:127 - Test: enter simbol
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 ERROR Calculation:80 - Movement error
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 ERROR Calculation:80 - Movement error
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:48:04 INFO  Calculation:63 - Move X
+2015-12-08 14:48:04 INFO  Calculation:114 - Win X
+2015-12-08 14:48:04 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:49:09 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:114 - Win X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:114 - Win X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:119 - Test: enter simbol
+2015-12-08 14:49:09 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:121 - Dead heat
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:126 - Test: enter simbol
+2015-12-08 14:49:09 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:114 - Win X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:133 - Test: enter simbol
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 ERROR Calculation:80 - Movement error
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 ERROR Calculation:80 - Movement error
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:09 INFO  Calculation:63 - Move X
+2015-12-08 14:49:09 INFO  Calculation:114 - Win X
+2015-12-08 14:49:09 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:49:41 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:114 - Win X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:114 - Win X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:119 - Test: enter simbol
+2015-12-08 14:49:41 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:121 - Dead heat
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:126 - Test: enter simbol
+2015-12-08 14:49:41 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:114 - Win X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:133 - Test: enter simbol
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 ERROR Calculation:80 - Movement error
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 ERROR Calculation:80 - Movement error
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:41 INFO  Calculation:63 - Move X
+2015-12-08 14:49:41 INFO  Calculation:114 - Win X
+2015-12-08 14:49:41 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:24 - Test: check movement
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 14:49:51 INFO  Calculation:55 - Test: check column win
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:114 - Win X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:43 - Test: check row win
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:114 - Win X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:119 - Test: enter simbol
+2015-12-08 14:49:51 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:121 - Dead heat
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:126 - Test: enter simbol
+2015-12-08 14:49:51 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:114 - Win X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:133 - Test: enter simbol
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 ERROR Calculation:80 - Movement error
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 ERROR Calculation:80 - Movement error
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 14:49:51 INFO  Calculation:63 - Move X
+2015-12-08 14:49:51 INFO  Calculation:114 - Win X
+2015-12-08 14:49:51 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:24 - Test: check movement
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 15:01:30 ERROR Calculation:116 - testPlusEnter
+2015-12-08 15:01:30 INFO  Calculation:55 - Test: check column win
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:114 - Win X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:43 - Test: check row win
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:114 - Win X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:124 - Test: enter simbol
+2015-12-08 15:01:30 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:121 - Dead heat
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:131 - Test: enter simbol
+2015-12-08 15:01:30 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:114 - Win X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:138 - Test: enter simbol
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 ERROR Calculation:80 - Movement error
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 ERROR Calculation:80 - Movement error
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:01:30 INFO  Calculation:63 - Move X
+2015-12-08 15:01:30 INFO  Calculation:114 - Win X
+2015-12-08 15:01:30 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:24 - Test: check movement
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 15:02:18 ERROR Calculation:116 - testPlusEnter
+2015-12-08 15:02:18 INFO  Calculation:55 - Test: check column win
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:114 - Win X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:43 - Test: check row win
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:114 - Win X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:124 - Test: enter simbol
+2015-12-08 15:02:18 ERROR Calculation:130 - testMinusEnter
+2015-12-08 15:02:18 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:121 - Dead heat
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:136 - Test: enter simbol
+2015-12-08 15:02:18 ERROR Calculation:142 - testMinusEnter
+2015-12-08 15:02:18 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:114 - Win X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:148 - Test: enter simbol
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 ERROR Calculation:80 - Movement error
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 ERROR Calculation:80 - Movement error
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:18 INFO  Calculation:63 - Move X
+2015-12-08 15:02:18 INFO  Calculation:114 - Win X
+2015-12-08 15:02:18 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:24 - Test: check movement
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:110 - Test: enter simbol
+2015-12-08 15:02:40 ERROR Calculation:116 - testPlusEnter
+2015-12-08 15:02:40 INFO  Calculation:55 - Test: check column win
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:114 - Win X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:43 - Test: check row win
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:114 - Win X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:124 - Test: enter simbol
+2015-12-08 15:02:40 ERROR Calculation:130 - testMinusEnter
+2015-12-08 15:02:40 INFO  Calculation:94 - Test: check dead heat
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:121 - Dead heat
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:136 - Test: enter simbol
+2015-12-08 15:02:40 ERROR Calculation:142 - testBigEnter
+2015-12-08 15:02:40 INFO  Calculation:81 - Test: check additional diagonal win
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:114 - Win X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:148 - Test: enter simbol
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 ERROR Calculation:80 - Movement error
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 ERROR Calculation:80 - Movement error
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:68 - Test: check main diagonal win
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
+2015-12-08 15:02:40 INFO  Calculation:63 - Move X
+2015-12-08 15:02:40 INFO  Calculation:114 - Win X
+2015-12-08 15:02:40 INFO  Calculation:63 - Move 0
