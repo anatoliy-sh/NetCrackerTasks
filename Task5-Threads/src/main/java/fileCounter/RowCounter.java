@@ -10,7 +10,7 @@ import java.util.concurrent.locks.Lock;
  * Created by Анатолий on 14.12.2015.
  */
 public class RowCounter extends Thread {
-    private static final Logger log = Logger.getLogger(RowCounter.class.getName());
+    private static final Logger log = Logger.getLogger(RowCounter.class);
 
     private BufferedReader in;
     private Lock lockFile;
@@ -37,7 +37,7 @@ public class RowCounter extends Thread {
                 if (s != null) {
                     sumLocal = 0;
                     calculate(s);
-                    System.out.print("[" + number + "] "+ sumLocal +" "+ s + "\n");
+                    log.info("[" + number + "] "+ sumLocal +" "+ s);
                     lockSum.lock();
                     sumGlobal.setSum(sumLocal);
                     lockSum.unlock();
@@ -46,7 +46,7 @@ public class RowCounter extends Thread {
                     break;
 
             } catch (IOException e) {
-                throw new RuntimeException(e);
+                log.error(e.getMessage()+e.getLocalizedMessage(),e);
             }
         }
     }

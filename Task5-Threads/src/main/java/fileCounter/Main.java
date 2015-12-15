@@ -12,7 +12,6 @@ import java.util.concurrent.locks.ReentrantLock;
 public class Main {
 
     private static String fileName = "input.txt";
-    private static int sum;
     private static final Logger log = Logger.getLogger(RowCounter.class.getName());
 
     public static void main(String[] args) {
@@ -28,19 +27,24 @@ public class Main {
             for (int i = 0; i < rowCounters.length; i++) {
                 rowCounters[i] = new RowCounter(in, lockFile,lockSum, i,sum);
             }
-
-            Thread[] threads = new Thread[rowCounters.length];
-            for (int i = 0; i < rowCounters.length; i++) {
-                threads[i] = new Thread(rowCounters[i]);
-                threads[i].start();
-            }
-            for (int j = 0; j < rowCounters.length; j++) {
-                threads[j].join();
-            }
+            createThreads(rowCounters);
             in.close();
             log.info("Sum = "+ sum.getSum());
-        } catch (Exception e) {
-
+        } catch (IOException e ) {
+            log.error(e.getMessage(),e);
+        }
+        catch (InterruptedException e){
+            log.error(e.getMessage(),e);
+        }
+    }
+    private static void createThreads(RowCounter[] rowCounters) throws InterruptedException{
+        Thread[] threads = new Thread[rowCounters.length];
+        for (int i = 0; i < rowCounters.length; i++) {
+            threads[i] = new Thread(rowCounters[i]);
+            threads[i].start();
+        }
+        for (int j = 0; j < rowCounters.length; j++) {
+            threads[j].join();
         }
     }
 }
