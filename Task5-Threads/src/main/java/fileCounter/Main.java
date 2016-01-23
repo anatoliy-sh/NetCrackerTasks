@@ -16,10 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
         File file = new File(fileName);
-
-        try {
-            BufferedReader in = new BufferedReader(new FileReader(file.getAbsoluteFile()));
-
+        try(BufferedReader in = new BufferedReader(new FileReader(file.getAbsoluteFile()))) {
             RowCounter[] rowCounters = new RowCounter[3];
             Lock lockFile = new ReentrantLock();
             Lock lockSum = new ReentrantLock();
@@ -28,7 +25,6 @@ public class Main {
                 rowCounters[i] = new RowCounter(in, lockFile,lockSum, i,sum);
             }
             createThreads(rowCounters);
-            in.close();
             log.info("Sum = "+ sum.getSum());
         } catch (IOException e ) {
             log.error(e.getMessage(),e);
