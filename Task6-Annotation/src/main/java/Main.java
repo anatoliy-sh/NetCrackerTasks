@@ -10,6 +10,8 @@ public class Main {
     public static void main(String[] args) {
         Initialization init = new Initialization();
         init.scan();
+        ScanMap scanMap = new ScanMap();
+        scanMap.callMap();
     }
 
 }

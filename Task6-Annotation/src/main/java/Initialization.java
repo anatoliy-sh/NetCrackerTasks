@@ -21,14 +21,16 @@ public class Initialization {
     public static Map list;
     public void scan() {
         Set<Class<?>> classes = getClasses();
+        list = new HashMap<String, Object>();
         for (Class cl : classes) {
-            list = new HashMap<String, Method>();
             if (cl.isAnnotationPresent(Component.class)) {
                 log.info(cl.getName() + " annotated");
             }
             Method[] methods = cl.getMethods();
             Object instance = getInstance(cl);
-            scanMethods(methods, instance,cl.getName());
+            list.put(instance.getClass().getName(),instance);
+            log.info(list.size());
+            scanMethods(methods, instance);
         }
     }
 
@@ -48,12 +50,11 @@ public class Initialization {
         return classes;
     }
 
-    private void scanMethods(Method[] method, Object instance,String name) {
+    private void scanMethods(Method[] method, Object instance) {
         for (Method md : method) {
             Initialize initialize = md.getAnnotation(Initialize.class);
             if (initialize != null) {
-                list.put(name + md.getName(),md);
-                if (initialize.lazy()) {
+                if (!initialize.lazy()) {
                     try {
                         md.invoke(instance);
                     } catch (IllegalArgumentException | IllegalAccessException|
