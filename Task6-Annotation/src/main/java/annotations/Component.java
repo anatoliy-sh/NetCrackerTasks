@@ -8,6 +8,7 @@ import java.lang.annotation.Target;
 /**
  * Created by Анатолий on 10.01.2016.
  */
+@Target(value= ElementType.TYPE)
 @Retention(value= RetentionPolicy.RUNTIME)
 public @interface Component {
 }

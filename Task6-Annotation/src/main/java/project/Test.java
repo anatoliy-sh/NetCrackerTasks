@@ -10,15 +10,15 @@ import annotations.Initialize;
 public class Test {
 
     @Initialize(lazy = true)
-    public void init(){
+    private void init(){
         System.out.println("Test: init");
     }
     @Initialize(lazy = false)
-    public void init2(){
+    private void init2(){
         System.out.println("Test: init2");
     }
     @Initialize(lazy = true)
-    public void init3(){
+    private void init3(){
         System.out.println("Test: init3");
     }
 }

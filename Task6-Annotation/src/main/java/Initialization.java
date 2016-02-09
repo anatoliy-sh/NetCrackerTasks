@@ -26,7 +26,7 @@ public class Initialization {
             if (cl.isAnnotationPresent(Component.class)) {
                 log.info(cl.getName() + " annotated");
             }
-            Method[] methods = cl.getMethods();
+            Method[] methods = cl.getDeclaredMethods();
             Object instance = getInstance(cl);
             list.put(instance.getClass().getName(),instance);
             log.info(list.size());
@@ -56,6 +56,7 @@ public class Initialization {
             if (initialize != null) {
                 if (!initialize.lazy()) {
                     try {
+                        md.setAccessible(true);
                         md.invoke(instance);
                     } catch (IllegalArgumentException | IllegalAccessException|
                             InvocationTargetException e) {
