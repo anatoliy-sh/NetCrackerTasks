@@ -1,6 +1,7 @@
 package server;
 
 import db.MyConnection;
+import db.Para;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -32,4 +33,6 @@ public class TimeTableServlet extends HttpServlet {
             // log.error(e.getMessage(), e);
         }
     }
+
+
 }

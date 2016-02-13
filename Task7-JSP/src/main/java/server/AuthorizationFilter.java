@@ -30,9 +30,9 @@ public class AuthorizationFilter implements Filter {
     public boolean check(HttpServletRequest request){
         HttpSession session = request.getSession();
         if(session.getAttribute("login") != null
-                && session.getAttribute("login").toString().equals("admin")
+                && session.getAttribute("login").toString().equals("Tolik")
                 && session.getAttribute("password") != null
-                && session.getAttribute("password").toString().equals("111111")){
+                && session.getAttribute("password").toString().equals("111")){
             return true;
         }
         return false;

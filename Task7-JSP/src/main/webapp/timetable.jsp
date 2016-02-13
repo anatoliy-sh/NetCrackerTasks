@@ -1,6 +1,7 @@
 <%@ page import="java.util.List" %>
 <%@ page import="db.Para" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
     <title>Timetable</title>
@@ -15,23 +16,20 @@
         <td>Para</td>
         <td>Subject</td>
     </tr>
-    <%
-        List<Para> timetable = (List<Para>) request.getAttribute("timetable");
-        for (int i = 0; i < timetable.size(); i++) {
+    <c:forEach var="para" items="${timetable}">
+        <tr>
+            <td>
+                    ${para.getNum()}
+            </td>
+            <td>
+                    ${para.getSubject()}
+            </td>
+            <td>
+                    ${para.getTime()}
+            </td>
+        </tr>
+    </c:forEach>
 
-    %>
-    <tr>
-        <td>
-            <%=timetable.get(i).getTime()%>
-        </td>
-        <td>
-            <%=timetable.get(i).getNum()%>
-        </td>
-        <td>
-            <%=timetable.get(i).getSubject()%>
-        </td>
-    </tr>
-    <%} %>
 </table>
 
 </body>
