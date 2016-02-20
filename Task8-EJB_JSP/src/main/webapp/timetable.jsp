@@ -42,5 +42,15 @@
     <%} %>
 </table>
 
+<h1>Add new local</h1>
+
+<form action="/timetable/timetable" method="post">
+    <input type="text" name="time" placeholder="time">
+    <input type="text" name="para" placeholder="number">
+    <input type="text" name="subject" placeholder="subject">
+    <input type="text" name="week" placeholder="week">
+    <input type="submit" name="add" value="Add">
+</form>
+
 </body>
 </html>

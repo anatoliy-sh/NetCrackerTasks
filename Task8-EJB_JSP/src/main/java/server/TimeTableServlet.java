@@ -23,11 +23,19 @@ public class TimeTableServlet extends HttpServlet {
     TimeTableStateful timeTableStateFul;
     @EJB
     TimeTableStateless timeTableStateless;
+
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        request.getRequestDispatcher("timetable.jsp").forward(request, response);
         List<Para> paras = timeTableStateFul.returnTimeTable();
         request.setAttribute("timetable", timeTableStateless.calculateProbability(paras));
+        request.getRequestDispatcher("timetable.jsp").forward(request, response);
+    }
 
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        if(request.getParameter("add") != null)
+        timeTableStateFul.addPara(request.getParameter("time"), request.getParameter("para"),
+                request.getParameter("subject"), request.getParameter("week"));
+        doGet(request, response);
     }
 }
