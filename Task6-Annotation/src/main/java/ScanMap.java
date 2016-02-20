@@ -34,14 +34,14 @@ public class ScanMap {
         for (Method md : method) {
             Initialize initialize = md.getAnnotation(Initialize.class);
             if (initialize != null) {
-                //if (!initialize.lazy()) {
+                if (initialize.lazy()) {
                     try {
                         md.invoke(instance);
                     } catch (IllegalArgumentException | IllegalAccessException |
                             InvocationTargetException e) {
                         log.error(e.getMessage());
                     }
-                //}
+                }
             }
         }
     }
