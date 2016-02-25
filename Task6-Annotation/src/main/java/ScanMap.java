@@ -23,7 +23,7 @@ public class ScanMap {
     public void callMap() {
         for (Object instanse : list.values()) {
             if (!listBool.contains(instanse.getClass().getName())) {
-                Method[] methods = instanse.getClass().getMethods();
+                Method[] methods = instanse.getClass().getDeclaredMethods();
                 scanMethods(methods, instanse);
                 listBool.add(instanse.getClass().getName());
             }
@@ -36,6 +36,7 @@ public class ScanMap {
             if (initialize != null) {
                 if (initialize.lazy()) {
                     try {
+                        md.setAccessible(true);
                         md.invoke(instance);
                     } catch (IllegalArgumentException | IllegalAccessException |
                             InvocationTargetException e) {

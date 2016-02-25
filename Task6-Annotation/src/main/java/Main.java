@@ -10,6 +10,7 @@ public class Main {
     public static void main(String[] args) {
         Initialization init = new Initialization();
         init.scan();
+        log.info("---------Scan map-----------");
         ScanMap scanMap = new ScanMap();
         scanMap.callMap();
     }

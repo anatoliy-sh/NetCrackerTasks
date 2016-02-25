@@ -1,0 +1,15 @@
+2016-02-25 15:01:12 INFO  Initialization:27 - project.Test annotated
+2016-02-25 15:01:12 INFO  Initialization:32 - 1
+2016-02-25 15:01:12 INFO  Test:20 - lazy = false class Test method init2
+2016-02-25 15:01:12 INFO  Initialization:27 - project.lol.Test2 annotated
+2016-02-25 15:01:12 INFO  Initialization:32 - 2
+2016-02-25 15:01:12 INFO  Test2:20 - lazy = false class Test2 method init2
+2016-02-25 15:01:12 INFO  Initialization:27 - project.Test1 annotated
+2016-02-25 15:01:12 INFO  Initialization:32 - 3
+2016-02-25 15:01:12 INFO  Test1:20 - lazy = false class Test1 method init2
+2016-02-25 15:01:12 INFO  Initialization:13 - ---------Scan map-----------
+2016-02-25 15:01:12 INFO  Test2:16 - lazy = true class Test2 method init
+2016-02-25 15:01:12 INFO  Test2:24 - lazy = true class  Test2 method init3
+2016-02-25 15:01:12 INFO  Test:16 - lazy = true class Test method init
+2016-02-25 15:01:12 INFO  Test:24 - lazy = true class Test method init3
+2016-02-25 15:01:12 INFO  Test1:16 - lazy = true class Test1 method init
